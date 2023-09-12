@@ -1,2 +1,3 @@
-# techxchange2023-ws-bp
-IBM TechXChange 2023 Watson Studio Best Practices Assets
+# IBM TechXChange 2023 Watson Studio Best Practices
+
+Reference materials and assets for Watson Studio and CP4D
